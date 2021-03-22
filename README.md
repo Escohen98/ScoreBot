@@ -1,3 +1,5 @@
+ **This bot is no longer being developed and likely will not work**
+ 
 # ScoreBot
 Discord Bot - A bot to keep score of a league. Features: 
 (1) Add Teams 
